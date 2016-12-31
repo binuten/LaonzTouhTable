@@ -138,6 +138,7 @@
     <None Include="Assets\AssetPlugin\Demigiant\DemiLib\Core\DemiLib.xml" />
     <None Include="Assets\AssetPlugin\Demigiant\DemiLib\Core\Editor\DemiEditor.xml" />
     <None Include="Assets\AssetPlugin\Demigiant\readme_DOTweenPro.txt" />
+    <None Include="Assets\Data\Laonz\TouchTable\xml\TouchConfig.xml" />
     <None Include="Assets\SaveData.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
